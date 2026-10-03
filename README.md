@@ -13,4 +13,5 @@ Node.js болон Express ашиглан хөгжүүлсэн Оюутны бү
 - `GET /api/v1/students/:id` - Нэг оюутан авах
 - `POST /api/v1/students` - Шинэ оюутан нэмэх
 - `PUT /api/v1/students/:id` - Шинэчлэх
-- `DELETE /api/v1/students/:id` - Устгах
+- `DELETE /api/v1/students/:id` - Устгах 
+## hi
